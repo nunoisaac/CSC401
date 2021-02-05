@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72d4e4cd-8e36-4e29-a96b-abbfd2632935" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jCbqRmLZfz7ctEdFCq8ESMYJTa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.BFSTest">
+    <configuration name="BFSTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BFSTest" />
+      <module name="CSC401_Project1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="CSC401_Project1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BFSTest" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72d4e4cd-8e36-4e29-a96b-abbfd2632935" name="Default Changelist" comment="" />
+      <created>1603311210505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603311210505</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612154339388">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612154339388" />
+    <state x="265" y="258" key="#com.intellij.ide.util.MemberChooser" timestamp="1604549704646">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="265" y="258" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1604549704646" />
+    <state x="1058" y="247" key="FileChooserDialogImpl" timestamp="1612226162561">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1058" y="247" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612226162561" />
+    <state width="1013" height="823" key="GridCell.Tab.0.bottom" timestamp="1612162181676">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1013" height="823" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612162181676" />
+    <state width="1013" height="823" key="GridCell.Tab.0.center" timestamp="1612162181676">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1013" height="823" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612162181676" />
+    <state width="1013" height="823" key="GridCell.Tab.0.left" timestamp="1612162181676">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1013" height="823" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612162181676" />
+    <state width="1013" height="823" key="GridCell.Tab.0.right" timestamp="1612162181676">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1013" height="823" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612162181676" />
+    <state width="1013" height="344" key="GridCell.Tab.1.bottom" timestamp="1612162181674">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1013" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612162181674" />
+    <state width="1013" height="344" key="GridCell.Tab.1.center" timestamp="1612162181674">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1013" height="344" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612162181674" />
+    <state width="1013" height="344" key="GridCell.Tab.1.left" timestamp="1612162181674">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1013" height="344" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612162181674" />
+    <state width="1013" height="344" key="GridCell.Tab.1.right" timestamp="1612162181674">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1013" height="344" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612162181674" />
+    <state x="295" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1612310323862">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="295" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612310323862" />
+    <state x="115" y="257" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1612154919357">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="115" y="257" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1612154919357" />
+    <state x="0" y="142" key="new project wizard" timestamp="1612226158081">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="142" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1612226158081" />
+    <state x="451" y="150" key="refactoring.ChangeSignatureDialog" timestamp="1606707761712">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="451" y="150" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606707761712" />
+    <state x="326" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1604625899989">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="326" y="231" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604625899989" />
+  </component>
+</project>
